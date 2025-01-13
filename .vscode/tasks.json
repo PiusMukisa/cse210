@@ -39,6 +39,7 @@
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
+            
             "problemMatcher": "$msCompile"
         },
 
